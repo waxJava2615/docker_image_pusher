@@ -3,6 +3,9 @@
 #ingress-nginx/kube-webhook-certgen:v1.5.2
 jenkins/jenkins:lts
 sonatype/docker-nexus3:3.78.1
+apache/skywalking-java-agent:9.5.0-java17
+apache/skywalking-oap-server:10.3.0-java17
+apache/skywalking-ui:10.3.0-java17
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
